@@ -1,0 +1,3 @@
+#!/bin/sh
+set -eu
+/Library/Printers/HP1020/setup-printer.sh --optional
